@@ -11,7 +11,7 @@
 
 	<section>
 		<article>
-			<form action="/chat.php">
+			<form action="chat.php">
 				Nickname: <input type="text" name="nick">
 				Color: <input type="color" name="color" value="#4873b9">
 				<input type="submit" value="Start chatting">
